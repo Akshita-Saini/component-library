@@ -136,6 +136,11 @@ BEM - css naming covention writing link-primary and link-secondary instead of pr
     color:white;
 }
 
+.footer .footer-header{
+    font-size: large;
+    font-weight: bold;
+}
+
 ul {
     padding-inline-start: 0px;
 }
